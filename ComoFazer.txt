@@ -1,0 +1,11 @@
+1. Abrir XAMPP
+2. Abrir XAMPP Control Panel
+ Ativar Apache
+ Ativar MySQL
+
+1. Criar arquivo html com o lay-out desejado utilizando o
+Bloco de Notas
+2. Salvar o arquivo com extensão html em 
+xampp/htdocs
+3. Abrir o navegador
+4. Executar como localhost/Nome_do_Arquivo.html
